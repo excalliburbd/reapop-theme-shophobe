@@ -1,7 +1,7 @@
 {
-  "name": "reapop-theme-wybo",
+  "name": "reapop-theme-shophobe",
   "version": "0.4.1",
-  "description": "Official theme for Reapop",
+  "description": "Reapop theme for ShopHobe",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LouisBarranqueiro/reapop-theme-wybo.git"
+    "url": "git+https://github.com/excalliburbd/reapop-theme-shophobe"
   },
   "keywords": [
     "reapop",
@@ -21,12 +21,11 @@
     "notification",
     "component"
   ],
-  "author": "Louis Barranqueiro",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/LouisBarranqueiro/reapop-theme-wybo/issues"
+    "url": "https://github.com/excalliburbd/reapop-theme-shophobe/issues"
   },
-  "homepage": "https://github.com/LouisBarranqueiro/reapop-theme-wybo#readme",
+  "homepage": "https://github.com/excalliburbd/reapop-theme-shophobe#readme",
   "peerDependencies": {
     "font-awesome": "^4.6.1",
     "reapop": ">=0.6.0"
